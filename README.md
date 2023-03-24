@@ -1,5 +1,5 @@
 ### Hi there 👋
-Check my new app in App Store: <a href="[https://t.me/talserhii/](https://apple.co/418PXwo)" title="Sufle - Teleprompter for video">https://apple.co/418PXwo</a><br>
+Download my new app in the App Store: <a href="[https://t.me/talserhii/](https://apple.co/418PXwo)" title="Sufle - Teleprompter for video">https://apple.co/418PXwo</a><br>
 
 <a href="https://t.me/talserhii/" title="Telegram">
   <img align="left" alt="Telegram" height="22px" src="https://user-images.githubusercontent.com/50111192/172144932-658951ce-ac8e-46dd-8e86-64360bdcc8ff.svg" />
