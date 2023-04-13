@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-###### Download my new Teleprompter app on the App Store
+###### Download my new Teleprompter app on the App Store & See more: [/sufle-public](https://github.com/obrienser/sufle-public)
 
 <p>
   <a href="https://apple.co/418PXwo" title="Download from the App Store"><img src="https://user-images.githubusercontent.com/50111192/231751762-036032fe-660f-47d2-b258-58d2b3c279c8.png" alt="Download from the App Store" height="40"></a>
