@@ -8,6 +8,7 @@
 - Core Data (Swift Data)
 - CloudKit
 - Apple Wallet Passes
+- Near-field communication (NFC)
 - REST API
 - MVC
 - MVVM
