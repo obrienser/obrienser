@@ -1,3 +1,4 @@
+Tech Stack 👇
 - Swift
 - SwiftUI
 - UIKit
@@ -14,7 +15,7 @@
 - Firebase
 - RevenueCat
 - Google AdMob
-- Publishing in the AppStore* 🤌
+- Publishing in the AppStore
 
 #### Try Sufle teleprompter for free!
 
