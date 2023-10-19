@@ -1,4 +1,20 @@
-👉 *Swift – SwiftUI – UIKit – Flutter – Python – Core Data (Swift Data) – CloudKit – Apple Wallet Passes – REST API – MVC – MVVM – JSON – Git – Firebase – RevenueCat – Google AdMob – Publishing in the AppStore* 🤌
+- Swift
+- SwiftUI
+- UIKit
+- Flutter
+- Python
+- Core Data (Swift Data)
+- CloudKit
+- Apple Wallet Passes
+- REST API
+- MVC
+- MVVM
+- JSON
+- Git
+- Firebase
+- RevenueCat
+- Google AdMob
+- Publishing in the AppStore* 🤌
 
 #### Try Sufle teleprompter for free!
 
