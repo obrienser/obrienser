@@ -4,9 +4,6 @@
 - SwiftUI, UIKit
 - Flutter
 - Python
-- Core Data (Swift Data), CloudKit
-- Apple Wallet Passes
-- Near-field communication (NFC)
 - REST API
 - MVVM, MVC
 - JSON
@@ -14,6 +11,7 @@
 - Firebase, AdMob, Google, Google Analytics
 - RevenueCat, RevenueCat API
 - Publishing in the AppStore
+- Experience with: Apple Wallet Passes; Core Data (Swift Data), CloudKit; Near-field communication (NFC)
 
 <br>
 
