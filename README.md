@@ -1,4 +1,4 @@
-**🔴 TECH STACK**
+#### 🔴 TECH STACK
 
 - Swift
 - SwiftUI, UIKit
@@ -17,7 +17,7 @@
 
 <br>
 
-**🟢 APPS**
+#### 🟢 APPS
 
 <table>
   <tr>
