@@ -40,4 +40,11 @@ And add to Wallet.</p>
 <a href="https://apps.apple.com/us/app/discount-cards-generator/id6449375140?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 125px; height: 41px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1687996800" alt="Download on the App Store" style="border-radius: 13px; width: 125px; height: 41px;"></a>
     </td>
   </tr>
+
+  <tr>
+    <td>
+      <p><b>Money</b></p>
+<p>Coming soon.</p>
+    </td>
+  </tr>
 </table>
