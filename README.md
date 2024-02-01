@@ -28,7 +28,7 @@
   
   <tr>
     <td>
-      <p><b>StoreCard Wallet</b></p>
+      <p><b>QR Wallet</b></p>
 <p>Are you tired of fumbling through your wallet to find your store loyalty cards, gift cards, and membership cards? Say goodbye to the clutter and welcome a smarter way to manage your cards with StoreCard Wallet, the all-in-one solution for your mobile device.</p>
 <p>This application will help you store all discount cards and coupons on your device.
 Generate an Apple Wallet pass in just a few steps.
