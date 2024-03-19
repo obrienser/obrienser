@@ -1,13 +1,13 @@
-#### 🔴 TECH STACK
+#### 💎 TECH STACK
 
-- Swift, SwiftUI, UIKit, Python
-- MVVM, MVC, REST API, Git, JSON
-- Firebase, AdMob, Google, Google Analytics, RevenueCat, RevenueCat API
-- Experience with: Apple Wallet Passes; Core Data (Swift Data), CloudKit; Near-field communication (NFC), Publishing in the AppStore
+- Swift · SwiftUI · UIKit · Python
+- MVVM · MVC · REST API · Git · JSON
+- Firebase · AdMob · Google Analytics · RevenueCat
+- <b>Experience with:</b> Apple Wallet Passes · Core Data · Swift Data · CloudKit · Near-field communication (NFC) · Publishing in the AppStore
 
 <br>
 
-#### 🟢 APPS in AppStore
+#### ⭐️ APPS in AppStore
 
 <table>
   <tr>
@@ -35,7 +35,7 @@ And add to Wallet.</p>
 
   <tr>
     <td>
-      <p><b>Money</b></p>
+      <p><b>Money tracker | Family wallet</b></p>
 <p>Coming soon.</p>
     </td>
   </tr>
