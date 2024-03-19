@@ -1,21 +1,13 @@
 #### 🔴 TECH STACK
 
-- Swift
-- SwiftUI, UIKit
-- Flutter
-- Python
-- REST API
-- MVVM, MVC
-- JSON
-- Git
-- Firebase, AdMob, Google, Google Analytics
-- RevenueCat, RevenueCat API
-- Publishing in the AppStore
-- Experience with: Apple Wallet Passes; Core Data (Swift Data), CloudKit; Near-field communication (NFC)
+- Swift, SwiftUI, UIKit, Python
+- MVVM, MVC, REST API, Git, JSON
+- Firebase, AdMob, Google, Google Analytics, RevenueCat, RevenueCat API
+- Experience with: Apple Wallet Passes; Core Data (Swift Data), CloudKit; Near-field communication (NFC), Publishing in the AppStore
 
 <br>
 
-#### 🟢 APPS
+#### 🟢 APPS in AppStore
 
 <table>
   <tr>
