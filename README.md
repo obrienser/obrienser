@@ -3,7 +3,7 @@
 - Swift · SwiftUI · UIKit · Python
 - MVVM · MVC · REST API · Git · JSON
 - Firebase · AdMob · Google Analytics · RevenueCat
-- <b>Experience with:</b> Apple Wallet Passes · Core Data · Swift Data · CloudKit · Near-field communication (NFC) · Publishing in the AppStore
+- <b>Experience with:</b> Apple Wallet Passes · Core Data · Swift Data · CloudKit · Publishing in the AppStore
 
 <br>
 
