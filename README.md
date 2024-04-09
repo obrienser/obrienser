@@ -36,7 +36,9 @@
   <tr>
     <td>
       <p><b>Money tracker | Family wallet</b></p>
-        <p>Track your income and expenses. Coming soon.</p>
+        <p>Create personal and family wallets, add and edit categories, record and edit your expenses and income, and get advanced analytics. You can add your friends or family and create shared             wallets. Your data is secure and synchronized automatically between all your devices.
+          For even greater security, you can use biometrics to log in to the app.</p>
+      <a href="https://apps.apple.com/us/app/money-tracker-family-wallet/id6462794534?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 125px; height: 41px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1710979200" alt="Download on the App Store" style="border-radius: 13px; width: 125px; height: 41px;"></a>
     </td>
   </tr>
 </table>
