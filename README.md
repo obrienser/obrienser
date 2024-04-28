@@ -12,7 +12,7 @@
 <table>
   <tr>
     <td>
-      <p><b>Teleprompter – Sufle</b></p>
+      <p><b>Sufle – 4K Teleprompter studio</b></p>
       <p>We have designed the perfect teleprompter for you! Lightweight, convenient and powerful.</p>
       <p>
         Sufle helps you easily record videos for your social media.
