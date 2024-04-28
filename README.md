@@ -18,6 +18,8 @@
         Sufle helps you easily record videos for your social media.
         It supports maximum 4K video recording quality in various formats.
         You can create an unlimited number of scenarios and record them on different devices. All your scripts are automatically synced to iCloud.
+      </p>
+      <p>
         We have developed the most convenient text control interface. It allows you to customize the text while recording.
         You can also use the professional prompter mode. It offers advanced text management features.
         The main advantages of Sufle teleprompter: 4K video recording, choice of recording quality and format, portrait effect, background blur, saving scripts to iCloud.
