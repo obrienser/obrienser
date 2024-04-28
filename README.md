@@ -13,15 +13,16 @@
   <tr>
     <td>
       <p><b>Teleprompter – Sufle</b></p>
-        <p>We have designed the perfect teleprompter for you! Lightweight, convenient and powerful.
-          Sufle helps you easily record videos for your social media.
-          It supports maximum 4K video recording quality in various formats.
-          You can create an unlimited number of scenarios and record them on different devices. All your scripts are automatically synced to iCloud.
-          We have developed the most convenient text control interface. It allows you to customize the text while recording.
-          You can also use the professional prompter mode. It offers advanced text management features.
-          The main advantages of Sufle teleprompter: 4K video recording, choice of recording quality and format, portrait effect, background blur, saving scripts to iCloud.
-        </p>
-        <a href="https://apps.apple.com/us/app/teleprompter-sufle/id1661179941?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 125px; height: 41px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1674950400" alt="Download on the App Store" style="border-radius: 13px; width: 125px; height: 41px;"></a>
+      <p>We have designed the perfect teleprompter for you! Lightweight, convenient and powerful.</p>
+      <p>
+        Sufle helps you easily record videos for your social media.
+        It supports maximum 4K video recording quality in various formats.
+        You can create an unlimited number of scenarios and record them on different devices. All your scripts are automatically synced to iCloud.
+        We have developed the most convenient text control interface. It allows you to customize the text while recording.
+        You can also use the professional prompter mode. It offers advanced text management features.
+        The main advantages of Sufle teleprompter: 4K video recording, choice of recording quality and format, portrait effect, background blur, saving scripts to iCloud.
+      </p>
+      <a href="https://apps.apple.com/us/app/teleprompter-sufle/id1661179941?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 125px; height: 41px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1674950400" alt="Download on the App Store" style="border-radius: 13px; width: 125px; height: 41px;"></a>
     </td>
   </tr>
   
