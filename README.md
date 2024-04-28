@@ -24,7 +24,7 @@
         You can also use the professional prompter mode. It offers advanced text management features.
         The main advantages of Sufle teleprompter: 4K video recording, choice of recording quality and format, portrait effect, background blur, saving scripts to iCloud.
       </p>
-      <a href="https://apps.apple.com/us/app/teleprompter-sufle/id1661179941?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 125px; height: 41px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1674950400" alt="Download on the App Store" style="border-radius: 13px; width: 125px; height: 41px;"></a>
+      <a href="https://apps.apple.com/us/app/sufle-4k-teleprompter-studio/id1661179941?itscg=30200&amp;itsct=apps_box_appicon" style="width: 41px; height: 41px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/02/fb/c802fbd9-8268-e319-226d-fa97838476a2/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/540x540bb.jpg" alt="Sufle – 4K Teleprompter studio" style="width: 41px; height: 41px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a> <a href="https://apps.apple.com/us/app/teleprompter-sufle/id1661179941?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 125px; height: 41px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1674950400" alt="Download on the App Store" style="border-radius: 13px; width: 125px; height: 41px;"></a>
     </td>
   </tr>
   
