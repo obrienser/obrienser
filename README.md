@@ -21,14 +21,6 @@
   
   <tr>
     <td>
-      <p><b>QR Wallet | Business cards</b></p>
-        <p>Are you tired of fumbling through your wallet to find your store loyalty cards, gift cards, and membership cards? Say goodbye to the clutter and welcome a smarter way to manage your cards with StoreCard Wallet, the all-in-one solution for your mobile device.</p>
-        <a href="https://apps.apple.com/us/app/discount-cards-generator/id6449375140?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 125px; height: 41px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1687996800" alt="Download on the App Store" style="border-radius: 13px; width: 125px; height: 41px;"></a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
       <p><b>Money tracker | Family wallet</b></p>
         <p>Create personal and family wallets, add and edit categories, record and edit your expenses and income, and get advanced analytics. You can add your friends or family and create shared wallets. Your data is secure and synchronized automatically between all your devices. For even greater security, you can use biometrics to log in to the app.</p>
       <a href="https://apps.apple.com/us/app/money-tracker-family-wallet/id6462794534?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 125px; height: 41px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1710979200" alt="Download on the App Store" style="border-radius: 13px; width: 125px; height: 41px;"></a>
