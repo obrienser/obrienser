@@ -6,7 +6,7 @@
 
 #### Tech stack
 
-<p>SwiftUI · Python</p>
-<p>MVVM · REST API · Git · JSON</p>
-<p>Firebase · AdMob · Google Analytics · RevenueCat</p>
-<p>Apple Wallet · Swift Data / Core Data · CloudKit · Biometrics</p>
+SwiftUI · Python<br>
+MVVM · REST API · Git · JSON<br>
+Firebase · AdMob · Google Analytics · RevenueCat<br>
+Apple Wallet · Swift Data / Core Data · CloudKit · Biometrics<br>
