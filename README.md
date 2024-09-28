@@ -6,7 +6,7 @@
 
 #### Tech stack
 
-Swift · SwiftUI · Python
-MVVM · MVC · REST API · Git · JSON
+SwiftUI · Python
+MVVM · REST API · Git · JSON
 Firebase · AdMob · Google Analytics · RevenueCat
-Apple Wallet Passes · Core Data / Swift Data · CloudKit · Biometrics
+Apple Wallet · Core Data / Swift Data · CloudKit · Biometrics
